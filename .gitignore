@@ -32,3 +32,6 @@ Thumbs.db
 
 # Логи
 *.log
+
+
+deflate.py

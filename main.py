@@ -3,6 +3,7 @@
 
 def main() -> None:
     """Запустить приложение."""
+    print("aboba")
     
     pass
 
